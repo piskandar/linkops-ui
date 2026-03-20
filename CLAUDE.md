@@ -1,0 +1,3 @@
+@my-app/AGENT.md
+@DESIGN_AGENT.md
+@WHIMSY_AGENT.md
